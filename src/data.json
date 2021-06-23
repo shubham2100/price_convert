@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "product_name":"Smart Phone",
+        "price":20,
+        "image":"https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "currency":"EUR"
+    },
+    {
+        "id":2,
+        "product_name":"Apple",
+        "price":30,
+        "image":"https://images.pexels.com/photos/209449/pexels-photo-209449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "currency":"EUR"
+    },
+    {
+        "id":3,
+        "product_name":"Drone",
+        "price":40,
+        "image":"https://images.pexels.com/photos/336232/pexels-photo-336232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "currency":"EUR"
+    }
+]
